@@ -2,7 +2,7 @@
 
 ls
 echo "hello world"
-echo "cleanin the directors"
+echo "cleaning the directors"
 sleep 3s
 clear
 echo "job completed"
