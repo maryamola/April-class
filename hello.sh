@@ -3,6 +3,6 @@
 ls
 echo "hello world"
 echo "cleanin the directors"
-sleep ss
+sleep 3s
 clear
 echo "job completed"
